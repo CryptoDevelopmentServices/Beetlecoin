@@ -1,0 +1,2 @@
+# Beetlecoin
+Beetlecoin smart contract
